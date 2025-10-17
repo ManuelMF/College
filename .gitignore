@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales (pipenv, venv, virtualenv, conda, etc.)
+venv/
+env/
+.venv/
+.env/
+env.bak/
+venv.bak/
+
+# Distribuciones y archivos de instalación
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Archivos de configuración de pipenv
+Pipfile.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Archivos de sistema o editores comunes
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+*.iml
+
+# Logs y bases de datos
+*.log
+*.sqlite3
+
+# Archivos de pruebas y resultados generados
+.coverage
+.pytest_cache/
+
+# Archivos de caché
+.cache/
